@@ -1,0 +1,45 @@
+repos:
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+    -   id: check-yaml
+    -   id: end-of-file-fixer
+    -   id: trailing-whitespace
+    -   id: check-toml
+    -   id: check-merge-conflict
+    -   id: check-case-conflict
+    -   id: requirements-txt-fixer
+    -   id: check-added-large-files
+        args: ['--maxkb=500000']
+-   repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.15.8
+    hooks:
+      - id: ruff
+        types_or: [python, pyi]
+        args: [
+          --fix,
+          --line-length=320,
+          --ignore=E722,
+          --ignore=E701,
+          --extend-select=I,
+        ]
+
+      - id: ruff-format
+        types_or: [python, pyi]
+        args: [--line-length=320]
+-   repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.19.1
+    hooks:
+    -   id: mypy
+        additional_dependencies:
+            -   types-requests
+            -   types-pytz
+-   repo: https://github.com/Yelp/detect-secrets
+    rev: v1.5.0
+    hooks:
+    -   id: detect-secrets
+        args: ['--baseline', '.secrets.baseline']
+-   repo: https://github.com/asottile/add-trailing-comma
+    rev: v4.0.0
+    hooks:
+    -   id: add-trailing-comma
