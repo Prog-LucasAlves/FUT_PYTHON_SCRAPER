@@ -61,3 +61,69 @@ date,time,competition,home,away,home_back,home_lay,draw_back,draw_lay,away_back,
 29-03-2026,19:30,Uruguai Primera Division,Peñarol,Racing-URU,1.69,1.72,3.55,3.75,6.6,7.2,2.28,2.3,12.0,23.0
 29-03-2026,19:31,Brasileirão Série A,Athletico-PR,Botafogo,2.12,2.14,3.35,3.45,4.1,4.3,2.28,2.34,12.0,13.0
 29-03-2026,21:00,Costa Rica Liga De Ascenso,Consultants Desamparados,Escorpiones FC,3.05,3.85,3.45,4.2,2.18,2.44,1.71,1.88,3.85,14.0
+30-03-2026,10:00,Internacional Fifa Series,Indonésia,Bulgária,2.66,2.78,3.6,3.7,2.74,2.88,1.86,1.88,11.5,15.0
+30-03-2026,10:30,Israel National League,Hapoel Rishon Lezion,MS Kfar Kasem,1.87,1.99,3.5,4.0,4.5,5.2,2.12,2.26,13.0,23.0
+30-03-2026,10:30,Israel National League,Maccabi Herzliya,Hapoel Eran Hadera,1.95,2.04,3.55,4.0,4.2,4.8,1.96,2.06,13.5,24.0
+30-03-2026,10:30,Israel National League,Ironi Modiin,Hapoel Kfar Saba,3.95,4.5,3.45,3.75,2.0,2.14,2.0,2.14,5.4,13.0
+30-03-2026,10:30,Israel National League,SC Kiryat Yam,Hapoel Akko,1.76,1.85,3.6,4.2,5.0,6.0,1.97,2.08,15.5,19.0
+30-03-2026,11:00,Internacional Fifa Series,Usbequistão,Venezuela,2.18,2.26,3.35,3.5,3.8,4.0,2.2,2.26,11.5,13.5
+30-03-2026,11:00,Internacional Fifa Series,Granada,Quênia,16.0,20.0,7.2,8.0,1.23,1.25,1.66,1.69,8.2,8.8
+30-03-2026,12:00,Internacional Fifa Series,Azerbaijão,Serra Leoa,1.67,1.7,3.85,4.1,6.2,6.6,2.4,2.5,7.8,17.5
+30-03-2026,12:00,Egito Copa Da Liga,Al-Masry,El Gounah,1.92,2.0,3.35,3.55,4.9,5.2,2.58,2.72,11.5,26.0
+30-03-2026,13:00,Amistosos Internacionais,Chipre,Moldávia,1.69,1.71,4.1,4.3,5.7,6.0,2.04,2.06,15.5,19.0
+30-03-2026,13:00,Alemanha Frauen Bundesliga,Hamburger SV (W),Leverkusen (F),6.2,7.6,4.6,5.6,1.51,1.58,1.6,1.67,9.8,12.0
+30-03-2026,14:30,Internacional Fifa Series,Ruanda,Estônia,1.93,1.95,3.5,3.55,4.9,5.2,2.58,2.78,11.5,14.0
+30-03-2026,15:00,Egito Copa Da Liga,Al Mokawloon,ZED FC,3.15,3.3,2.92,3.05,2.76,2.92,3.1,3.3,6.2,7.2
+30-03-2026,15:00,Uruguai Primera Division,Juventud De Las Piedras,Boston River,2.68,2.78,3.1,3.3,3.05,3.25,2.58,2.74,8.4,9.2
+30-03-2026,15:00,Argentina Campeonato Feminino,Gimnasia de La Plata (W),Lanus (F),1.33,1.41,5.1,6.6,7.8,13.0,1.54,1.68,7.0,95.0
+30-03-2026,15:30,Serie C Italiana,Casertana,Sorrento,1.8,1.87,3.7,3.95,5.0,5.7,2.02,2.14,15.5,1000.0
+30-03-2026,15:30,Serie C Italiana,Arezzo,Ascoli,2.2,2.32,2.96,3.15,4.1,4.5,2.36,2.54,5.8,500.0
+30-03-2026,15:30,Argentina Campeonato Feminino,CA Banfield (W),San Luis FC Women,1.75,1.84,3.45,3.8,5.5,6.4,2.38,2.48,4.2,500.0
+30-03-2026,15:30,Argentina Primera C,CSR Espanol BA,CA Lugano,2.08,2.38,2.86,3.55,3.55,4.6,2.46,3.05,4.4,1000.0
+30-03-2026,15:30,Argentina Primera C,Club El Porvenir,Sportivo Barracas,2.94,3.75,2.58,3.25,2.58,3.25,2.88,3.6,3.65,60.0
+30-03-2026,15:30,Argentina Primera C,CSD Muniz,Canuelas,2.86,3.65,2.64,3.35,2.56,3.25,2.68,3.4,3.65,8.8
+30-03-2026,15:30,País De Gales Campeonato Sul,Cwmbran Celtic,Trefelin,32.0,42.0,12.0,15.5,1.09,1.13,1.01,1.88,1.6,1000.0
+30-03-2026,15:30,País De Gales Campeonato Sul,Cwmbran Celtic,Trefelin,32.0,1000.0,7.2,950.0,1.04,1.16,1.01,1.88,1.6,1000.0
+30-03-2026,15:30,Serie C Italiana,Casertana,Sorrento,1.84,1.91,3.7,3.85,4.6,5.5,2.06,2.16,15.0,17.0
+30-03-2026,15:30,Serie C Italiana,Arezzo,Ascoli,2.2,2.3,2.96,3.15,4.1,4.5,2.38,2.54,5.7,500.0
+30-03-2026,15:30,Serie C Italiana,Casertana,Sorrento,1.84,1.96,3.7,3.85,4.5,5.5,2.06,2.16,15.0,17.0
+30-03-2026,15:30,Serie C Italiana,Arezzo,Ascoli,2.2,2.3,2.96,3.15,4.1,4.5,2.38,2.54,5.7,500.0
+30-03-2026,15:45,Amistosos Internacionais,Alemanha,Gana,1.18,1.19,9.6,9.8,19.5,21.0,1.38,1.39,50.0,940.0
+30-03-2026,15:45,Inglaterra National League Do Sul,Chelmsford,AFC Totton,1.55,1.61,4.3,5.1,5.8,7.0,1.7,1.77,14.5,130.0
+30-03-2026,16:00,Amistosos Internacionais,Guiana,Belize,1.64,1.7,4.3,4.8,5.3,5.9,1.7,1.78,19.0,23.0
+30-03-2026,16:00,Copa Da Islândia,Njardvik,Hviti Riddarinn,1.13,1.18,8.6,950.0,11.0,29.0,1.14,1.31,4.2,
+30-03-2026,16:00,Copa Da Islândia,Haukar,KFR,1.04,1.08,3.85,130.0,48.0,200.0,1.1,1.17,4.2,
+30-03-2026,16:00,Argentina Torneo A,Escobar FC,Sportivo AC Las Parejas,1.7,2.44,2.84,8.6,2.08,14.0,1.48,4.8,1.23,1000.0
+30-03-2026,17:00,Colômbia Primera B,Independiente Yumbo,Unión Magdalena,2.82,3.05,3.05,3.35,2.8,3.05,2.34,2.36,8.2,9.8
+30-03-2026,17:00,Colombian Liga Femenina Profesional,Real Santander (W),Llaneros (W),3.65,4.5,3.0,3.35,2.18,2.38,2.66,3.05,3.85,95.0
+30-03-2026,18:00,Uruguai Primera Division,Cerro Largo,Danúbio,3.2,3.3,3.05,3.2,2.62,2.74,2.48,2.66,7.4,9.0
+30-03-2026,18:00,Colombian Liga Femenina Profesional,Junior de Barranquilla (W),Atletico Nacional (F),6.6,9.0,3.7,4.5,1.52,1.62,2.1,2.34,3.15,1000.0
+30-03-2026,18:00,Copa Do Chile,Cobresal,Universidad Católica-CHI,4.0,4.4,3.75,4.2,1.93,1.97,1.92,2.04,5.1,500.0
+30-03-2026,18:00,Chile Primera B,Magallanes,CSD Rangers,2.08,2.14,3.45,3.75,3.8,4.1,2.04,2.1,6.6,1000.0
+30-03-2026,18:15,Colombian Liga Femenina Profesional,Millonarios (F),Bucaramanga (F),1.11,1.15,7.2,26.0,9.0,55.0,1.5,1.61,4.2,
+30-03-2026,18:30,Copa Do Nordeste,Jacuipense BA,America RN,4.6,5.3,3.15,3.5,1.99,2.14,2.42,2.64,6.0,7.2
+30-03-2026,18:30,Copa Do Nordeste,Jacuipense BA,America RN,4.5,5.3,3.15,3.5,2.0,2.12,2.42,2.64,5.4,9.6
+30-03-2026,18:30,Copa Do Nordeste,Jacuipense BA,America RN,4.5,5.3,3.15,3.5,2.0,2.12,2.42,2.64,6.0,7.2
+30-03-2026,19:00,Brasileirão Série A Feminino,CA Mineiro (F),São Paulo (F),6.2,7.6,3.85,4.6,1.55,1.66,1.91,2.08,6.8,8.6
+30-03-2026,19:00,Brasileirão Série A Feminino,CA Mineiro (F),São Paulo (F),5.6,7.6,3.9,4.6,1.57,1.67,1.91,2.08,4.4,8.6
+30-03-2026,19:00,Brasileirão Série A Feminino,CA Mineiro (F),São Paulo (F),5.5,7.8,3.8,4.6,1.55,1.67,1.91,2.08,4.4,8.6
+30-03-2026,20:00,Copa Verde,Trem AP,Sampaio-RR,1.48,1.55,4.3,6.4,6.0,9.8,1.68,1.79,3.8,1000.0
+30-03-2026,20:00,Jamaica Premier League,Waterhouse FC,Spanish Town Police,1.18,1.37,2.96,7.0,4.6,870.0,1.15,1.6,1.11,1000.0
+30-03-2026,20:00,Copa Verde,Trem AP,Sampaio-RR,1.48,1.55,4.3,6.4,6.0,9.8,1.68,1.79,3.8,1000.0
+30-03-2026,20:00,Copa Verde,Trem AP,Sampaio-RR,1.48,1.55,4.3,6.4,6.0,9.8,1.68,1.79,3.8,1000.0
+30-03-2026,20:10,Primera A Da Colômbia,Ind Medellin,America de Cali,2.24,2.3,3.3,3.5,3.65,3.85,2.16,2.26,10.5,13.0
+30-03-2026,20:30,Amistosos Internacionais,Dominica,Sint Maarten,3.55,3.75,3.8,4.1,2.1,2.18,1.55,1.6,12.5,18.0
+30-03-2026,20:30,Copa Do Chile,Univ de Concepcion,Ñublense,3.5,3.8,3.25,3.35,2.3,2.4,2.22,2.36,7.8,11.0
+30-03-2026,20:30,Copa Do Chile,Palestino,OHiggins,2.12,2.24,3.6,3.95,3.5,3.8,1.8,1.88,5.1,17.5
+30-03-2026,20:30,Paraguai Primera Division,Libertad,Deportivo Recoleta,1.62,1.66,3.8,4.1,7.4,8.4,1.98,2.08,11.0,23.0
+30-03-2026,21:00,Uruguai Primera Division,Central Español,Deportivo Maldonado,3.5,3.65,3.0,3.25,2.46,2.54,2.28,2.42,7.4,10.5
+30-03-2026,21:00,Colômbia Primera B,Orsomarso,Internacional de Palmira,3.55,4.1,3.1,3.35,2.24,2.38,2.56,2.76,6.4,9.0
+30-03-2026,21:15,Copa Da Argentina,Union Santa Fe,Agropecuario,1.62,1.66,3.5,3.9,7.6,9.8,2.52,2.76,4.0,23.0
+30-03-2026,22:00,Costa Rica Liga De Ascenso,Inter San Carlos,Municipal Grecia,1.59,1.86,3.05,5.0,4.4,7.2,1.53,1.9,1.03,29.0
+30-03-2026,22:00,Costa Rica Liga De Ascenso,Inter San Carlos,Municipal Grecia,1.59,1.86,3.05,5.0,4.4,7.2,1.21,5.0,1.03,29.0
+30-03-2026,22:00,Costa Rica Liga De Ascenso,Inter San Carlos,Municipal Grecia,1.59,1.86,3.05,5.0,4.4,7.2,1.21,5.0,1.03,29.0
+30-03-2026,22:20,Primera A Da Colômbia,Millonarios,Fortaleza FC,1.72,1.76,3.9,4.0,5.7,6.4,2.1,2.18,11.5,19.0
+30-03-2026,23:00,Costa Rica Liga De Ascenso,AD Aserri,AD Carmelita,1.88,2.08,3.15,3.9,3.8,4.9,1.97,2.2,3.85,18.5
+30-03-2026,23:00,Costa Rica Liga De Ascenso,AD Aserri,AD Carmelita,1.88,2.08,3.15,3.9,3.8,4.9,1.01,6.4,1.3,1000.0
+30-03-2026,23:00,Costa Rica Liga De Ascenso,AD Aserri,AD Carmelita,1.88,2.08,3.15,3.9,3.8,4.9,1.01,6.4,1.3,1000.0
+30-03-2026,Ao vivo,Ucrânia Druha Liga,FC Chayka,FC Chernomorets 2 Odessa,1.02,1.11,1.02,,9.0,,1.77,2.34,1.04,
