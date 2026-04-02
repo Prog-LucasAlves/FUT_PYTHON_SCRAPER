@@ -19,8 +19,9 @@ def process_data():
     df = pd.concat([pd.read_csv(f) for f in csv_files], ignore_index=True)
     print(f"Total de linhas após concatenação: {len(df)}")
 
-    # Remover linhas com "vivo" ou "começa em" na coluna "time"
-    mask_invalid = df["time"].astype(str).str.strip().str.lower().eq("vivo") | df["time"].astype(str).str.strip().str.lower().str.startswith("começa em")
+    # Remover linhas ao vivo ou com contagem regressiva na coluna "time"
+    time_normalized = df["time"].astype(str).str.strip().str.lower()
+    mask_invalid = time_normalized.eq("vivo") | time_normalized.eq("ao vivo") | time_normalized.str.startswith("começa em")
     removed = mask_invalid.sum()
     df = df[~mask_invalid].copy()
     print(f"Linhas removidas (vivo / Começa em): {removed}")

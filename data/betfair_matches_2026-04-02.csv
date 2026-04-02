@@ -1,0 +1,81 @@
+date,time,competition,home,away,home_back,home_lay,draw_back,draw_lay,away_back,away_lay,over25_back,over25_lay,score01_back,score01_lay
+02-04-2026,19:00,Brasileirão Série A,Santos,Remo,1.64,1.66,4.1,4.3,6.2,6.6,1.99,2,17,19.5
+02-04-2026,19:00,Brasileirão Série A,Chapecoense,Atlético-MG,3.2,3.35,3.35,3.4,2.48,2.52,2.3,2.34,8.2,8.8
+02-04-2026,21:30,Brasileirão Série A,Red Bull Bragantino,Flamengo,3.85,3.9,3.4,3.5,2.18,2.22,2.3,2.34,7.6,8.2
+02-04-2026,21:30,Brasileirão Série A,Palmeiras,Grêmio,1.55,1.56,4.5,4.6,7,7.2,1.78,1.82,N/A,N/A
+02-04-2026,19:00,Brasileirão Série B,São Bernardo,Operário-PR,2.3,2.36,3.25,3.35,3.65,3.8,2.58,2.68,10,11
+02-04-2026,15:00,Primeira Divisão Da Argentina,Barracas Central,Sarmiento de Junin,2.94,2.98,2.9,2.94,3.1,3.15,3.2,3.35,7.2,7.8
+02-04-2026,17:30,Primeira Divisão Da Argentina,Tigre,Independiente Rivadavia,2.34,2.38,3,3.1,4,4.2,3.15,3.25,N/A,N/A
+02-04-2026,20:30,Primeira Divisão Da Argentina,Talleres,Boca Juniors,2.86,2.94,2.94,2.98,3.1,3.25,3.05,3.15,N/A,N/A
+02-04-2026,14:00,La Liga Segunda Divisão,Las Palmas,Granada,1.75,1.77,3.65,3.7,6.2,6.4,2.2,2.26,16,18
+02-04-2026,15:00,La Liga Segunda Divisão,Sociedad B,Eibar,3.05,3.1,3.25,3.3,2.68,2.72,2.18,2.22,9.2,10
+02-04-2026,15:00,La Liga Segunda Divisão,Castellón,Almería,2.1,2.12,4,4.1,3.6,3.65,1.59,1.61,18.5,21
+02-04-2026,16:30,La Liga Segunda Divisão,Leganés,Zaragoza,2.02,2.06,3.4,3.5,4.4,4.6,2.32,2.34,12,13
+02-04-2026,Começa em 51’,Egito 2 Divisão,Abo Qair Semads,Aswan FC,1.59,1.65,3.65,3.95,8,9.2,2.8,2.94,15,18.5
+02-04-2026,Começa em 51’,Egito 2 Divisão,Tanta,Proxy Work Club,3.05,3.3,2.72,2.78,3,3.25,3.25,3.35,3.7,1000
+02-04-2026,Começa em 51’,Egito 2 Divisão,El Entag El Harby,Maleyeit Kafr El Zayiat,2.3,2.42,2.74,2.96,4.3,4.9,3.1,3.2,6.2,16.5
+02-04-2026,13:00,Bahrein Premier League,Aali Club,Bahrain SC,1.61,1.68,3.85,4.2,6.4,7.2,2.06,2.12,7.2,1000
+02-04-2026,13:00,Bahrein Premier League,Al-Shabbab (BRN),Al Najma (BRN),4,4.5,3.25,3.5,2.08,2.16,2.42,2.54,6.4,8
+02-04-2026,vivo,República Da Macedônia Do Norte Futebol,KF Bashkimi Kumanovo,Tikves Kavadarci,1.98,2.34,2.2,2.38,8,18.5,N/A,N/A,1.44,N/A
+02-04-2026,vivo,I League Da Índia,Real Kashmir FC,Diamond Harbour,4.5,6.4,1.54,1.63,4.9,6.4,2.36,2.62,3.7,N/A
+02-04-2026,vivo,Terceira Divisão Da Espanha,Villarrubia CF,CD Tarancon,1.19,1.25,5.4,7,30,120,N/A,N/A,4.6,N/A
+02-04-2026,vivo,Terceira Divisão Da Espanha,EF Puebla de la Calzada,Moralo CP,5.5,N/A,34,70,1.02,1.03,2.28,2.44,65,N/A
+02-04-2026,vivo,Terceira Divisão Da Espanha,CD Numancia II,CD Colegios Diocesanos,1.78,1.92,2.76,3.1,7.2,10,1.3,1.34,9.8,N/A
+02-04-2026,vivo,Terceira Divisão Da Espanha,Real Union de Tenerife,UD Telde,1.12,1.14,10,11.5,55,75,2.24,2.3,11.5,N/A
+02-04-2026,vivo,Terceira Divisão Da Espanha,CD Arcangel San Miguel,CD Tenerife C,1.53,1.59,3.65,4.1,9,11.5,3,3.25,1.73,N/A
+02-04-2026,vivo,Etiópia Liga Superior,Boditi Ketema,Debre Birhan Ketema,2,N/A,3.6,7.4,1.21,1.4,2.56,110,N/A,970
+02-04-2026,Começa em 49’,Etiópia Liga Superior,Sululta Ketema,Addis Ketema SC,2.06,2.42,2.82,3.3,3.9,5.2,2.62,3.4,4.2,500
+02-04-2026,vivo,Azerbaijão 1 Divisão,Moik Baku,Cebrayil FK,2.1,2.18,2.46,2.58,7,8.6,1.37,1.38,7.2,N/A
+02-04-2026,vivo,Azerbaijão 1 Divisão,Zaqatala,Agsu,2.28,2.46,2.96,3.1,3.85,4.5,3.4,3.65,7.6,10
+02-04-2026,Começa em 47’,Azerbaijão 1 Divisão,Sabail,Baku Sporting,2.22,2.44,3.25,3.75,3.45,3.95,2.26,2.42,10,13
+02-04-2026,vivo,Noruega 3 Divisão,Gneist,Fana,4.2,4.6,3.1,3.4,2.08,2.2,1.16,1.19,1000,N/A
+02-04-2026,vivo,Dinamarca 2 Divisão,VSK Aarhus FC,Vendsyssel FF,2.88,2.98,2.96,3.05,2.96,3.15,3.75,3.9,6,7.2
+02-04-2026,vivo,Dinamarca 2 Divisão,Skive,AB,5.9,6.6,4.1,4.4,1.64,1.7,2.08,2.16,7.2,9.2
+02-04-2026,vivo,Dinamarca 2 Divisão,Brabrand,FC Helsingør,2.48,2.58,3.3,3.5,3.1,3.35,2.16,2.22,10,14
+02-04-2026,vivo,Dinamarca 2 Divisão,Roskilde,Naestved,1.44,1.53,4.3,5.1,8,9.4,1.45,1.5,1000,N/A
+02-04-2026,vivo,Copa Da Arménia,FC Andranik,FC Syunik,2.02,3.4,2.68,14.5,2.18,3.9,1.91,2.34,1.05,N/A
+02-04-2026,vivo,Iii Liga Da Polõnia,Korona II Kielce,Star Starachowice,4.7,150,4.2,4.9,1.58,1.77,1.28,1.3,12,N/A
+02-04-2026,Começa em 46’,Usbequistão Superliga,Sogdiana Jizak,FK Kokand 1912,2.28,2.32,3.2,3.4,3.7,3.95,2.28,2.4,11,12.5
+02-04-2026,11:00,Usbequistão Superliga,Bunyodkor,Lokomotiv Tashkent,2.62,2.76,3.2,3.45,2.94,3.1,2.46,2.6,8.2,10.5
+02-04-2026,Começa em 46’,Turquia 3 Lig,Soke 1970 Spor Kulubu,Afjet Afyonspor,1.66,1.79,3.9,4.6,4.5,5.5,1.74,1.93,7.2,22
+02-04-2026,Começa em 46’,Zimbabwe Premier League,Hunters FC,ZPC Kariba FC,2.92,3.55,2.52,3.05,2.78,3.4,3.05,4.3,5.7,8.2
+02-04-2026,Começa em 46’,Zimbabwe Premier League,Dynamos,MWOS FC,1.74,5,1.66,4.4,1.74,5,1.9,6.4,N/A,N/A
+02-04-2026,Começa em 46’,Zimbabwe Premier League,Bulawayo Chiefs FC,Simba Bhora,2.3,6.2,2.64,4.4,1.65,2.96,1.91,5.4,N/A,N/A
+02-04-2026,10:15,Arábia Saudita Divisão 1,Al-Jndal,Jeddah Club,2.82,3,3.1,3.25,2.86,3.05,2.44,2.54,8.6,10
+02-04-2026,12:55,Arábia Saudita Divisão 1,Al Faisaly ( KSA ),Al Jubail,1.43,1.48,5,5.8,7.4,8.8,1.55,1.6,9.8,1000
+02-04-2026,14:35,Arábia Saudita Divisão 1,Al-Zulfi SC,Al-Anwar Club,2.22,2.34,3.35,3.7,3.45,3.8,2.08,2.24,11,13.5
+02-04-2026,10:15,Outras Competições,Polisi SC,Fufuni,1.8,2.1,3,3.8,3.85,6.2,2.32,2.84,4.6,17
+02-04-2026,10:15,Outras Competições,Mlandege FC,New Stone Town,1.05,44,1.04,120,1.05,55,1.01,5.8,22,N/A
+02-04-2026,10:15,Outras Competições,Junguni United FC,Uhamiaji FC,1.05,44,1.04,32,1.05,44,1.01,5.8,1.01,N/A
+02-04-2026,10:30,Egito Segunda Divisão B,Diamond FC,Helwan Public Club,1.58,1.72,3.6,4.6,5.1,7.4,1.89,2.22,4.6,500
+02-04-2026,11:00,Croácia Prva Nl,NK Sesvete,Opatija,1.89,1.97,3.1,3.25,5.8,6.8,2.8,3.1,11.5,15
+02-04-2026,13:15,Croácia Prva Nl,Karlovac,NK Dubrava Zagreb,2,2.14,3.2,3.55,4.4,5,2.36,2.54,11,14
+02-04-2026,11:00,Islândia Copa Feminino,Breidablik (W),FH Hafnarfjordur (W),1.33,1.41,5.7,17,6.6,9.4,1.16,1.23,4.2,1000
+02-04-2026,11:00,Islândia Feminino,Breidablik (W),Hafnarfjordur (W),1.35,1.39,5.9,8,7,11,1.19,1.22,1.2,1000
+02-04-2026,11:00,2 Liga Da Polônia,LKS Lodz II,Stal Stalowa Wola,3.4,3.65,3.75,4.1,2.12,2.22,1.79,1.87,10,12
+02-04-2026,11:30,2 Liga Da Polônia,BTS Rekord B-B,Hutnik Krakow,2.54,2.7,3.7,3.95,2.7,2.86,1.81,1.88,11,14
+02-04-2026,12:30,2 Liga Da Polônia,KKS Kalisz,NKP Podhale Nowy Targ,4.6,5.1,3.6,3.9,1.85,1.93,2.04,2.14,7,8.4
+02-04-2026,14:30,2 Liga Da Polônia,Sandecja Nowy Sacz,Resovia Rzeszow,1.94,2.04,3.6,3.95,4,4.5,1.97,2.06,8.4,1000
+02-04-2026,11:00,Croácia Druga Nl,NK Uskok,Bjelovar,1.54,2.02,3.35,17.5,4,8.4,1.83,2.2,12.5,N/A
+02-04-2026,11:30,Croácia Druga Nl,NK Uljanik,Varteks Varazdin,1.77,2.04,2.96,4.8,1.09,5.8,1.02,2.26,15,N/A
+02-04-2026,11:30,Croácia Druga Nl,Lucko,NK Solin,2.74,3.75,3,4.3,2.34,2.94,2.04,2.46,3.9,11
+02-04-2026,12:00,Jordânia Premier League,Al Sarhan,Al-Jazeera,5.4,6.6,3.9,4.1,1.68,1.74,1.96,2.14,4.8,27
+02-04-2026,12:30,Finlândia Ykkonen,Tampere Utd,FC Jazz,1.43,1.45,5.7,6,7.4,8.2,1.45,1.49,24,42
+02-04-2026,12:30,Áustria Landesliga,KAC 1909,VST Volkermarkt,3.55,3.95,4,4.8,1.95,2.08,1.51,1.55,6.6,1000
+02-04-2026,13:30,Áustria Landesliga,SAK Klagenfurt,Kottmannsdorf,1.89,2,4,4.7,3.7,4.3,1.62,1.7,16.5,23
+02-04-2026,14:00,Áustria Landesliga,Asco Atsv Wolfsberg,Atus Ferlach,1.14,1.18,6.8,950,6.6,25,1.23,1.3,4.2,1000
+02-04-2026,13:00,2 Da Eslováquia Liga,Zlate Moravce,Lokomotiva Zvolen,1.75,1.84,4,4.6,4.5,5.1,1.5,1.54,16.5,29
+02-04-2026,13:00,Suíça 1 Liga Promotion,Bulle,FC Lugano II,1.92,2.04,4.1,4.6,3.6,4,1.44,1.49,11.5,75
+02-04-2026,14:30,Suíça 1 Liga Promotion,Biel Bienne,FC Basel II,1.61,1.69,4.8,5.8,4.6,5.4,1.33,1.37,19,65
+02-04-2026,13:00,Espanha Segunda Federación Grupo 2,Tudelano,Ejea,1.61,1.69,3.8,4.5,5.8,7.2,1.92,2.06,11,40
+02-04-2026,13:00,Tanzânia Premier League,Simba,Coastal Union,1.18,1.2,7.2,8.8,7.2,55,1.8,2.16,5.5,65
+02-04-2026,13:30,Copa Europa Feminina Da Uefa,BK Hacken (F),Eintracht Frankfurt (F),3.1,3.3,4,4.3,2.22,2.32,1.52,1.57,7.6,1000
+02-04-2026,14:00,Copa Europa Feminina Da Uefa,Hammarby (F),Sparta Prague (F),1.42,1.46,5.4,6.2,7.6,9.2,1.58,1.61,8,1000
+02-04-2026,13:45,Liga Dos Campeões Feminina,FC Barcelona (F),Real Madrid Feminino,1.13,1.14,12.5,14.5,20,26,1.19,1.2,40,1000
+02-04-2026,16:00,Liga Dos Campeões Feminina,Lyon (F),Wolfsburg (F),1.16,1.17,10.5,12,16,22,1.34,1.36,11.5,1000
+02-04-2026,14:00,Áustria Regionalliga,Atus Velden,St.Anna,1.39,1.52,4.9,6.6,6.4,9.2,1.46,1.68,5.7,95
+02-04-2026,14:00,Suécia Division 2,Torslanda,Landvetter IS,2.24,2.3,3.85,4.4,3.05,3.35,1.42,1.49,11.5,120
+02-04-2026,14:30,Suécia Division 2,IF Boljan,Dalstorps IF,2.22,2.4,3.9,4.6,2.86,3.2,1.47,1.53,17.5,22
+02-04-2026,14:30,Roménia Liga Ii,CSA Steaua Bucuresti,Chindia Targoviste,1.97,2.06,3.5,3.7,4.1,4.6,2.02,2.12,12.5,16
+02-04-2026,15:45,Inglaterra Sky Bet League 1,Wigan,Leyton Orient,2.38,2.4,3.4,3.45,3.45,3.5,2.2,2.22,10.5,12
+02-04-2026,15:45,Inglaterra Premier League Inglesa Do Norte,Cleethorpes,Stocksbridge Park Steels,1.66,1.84,3.85,4.6,4.5,6.2,1.82,2.08,8.4,21
